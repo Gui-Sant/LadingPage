@@ -13,4 +13,4 @@ Thumbs.db
 
 # -- Dependências / build (úteis qdo o projeto crescer)
 node_modules/
-dist/
+dist/ 
